@@ -17,3 +17,7 @@ This project aims to develop a predictive model that classifies whether a TikTok
 
 ## 📁 Repository Structure
 
+/docs/ → Executive summaries, stakeholder briefs 
+/notebooks/ → EDA, modeling, hypothesis testing
+/code/ → Scripts and reproducible pipelines 
+/README.md → Project overview and instructions
