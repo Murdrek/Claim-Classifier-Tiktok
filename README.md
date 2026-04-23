@@ -1,7 +1,7 @@
 # Claim-Classifier-Tiktok
 
-This project aims to develop a predictive model that classifies whether a TikTok video contains a claim or an opinion. The model supports moderation workflows by helping prioritize user reports efficiently.
-
+EN: Development of a classification model to identify claims vs. opinions in video content. Includes EDA of engagement metrics and data preparation for machine learning models.
+ES: Desarrollo de un modelo de clasificación para identificar reclamos (claims) frente a opiniones en videos. Incluye análisis exploratorio (EDA) de métricas de participación y preparación de datos para modelos de aprendizaje automático.
 ## 🔍 Project Overview
 
 - **Client:** TikTok Data Team  
